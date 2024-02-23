@@ -7,13 +7,8 @@ I did some practice using VLOOKUP, and conditional statement in Microsoft Excel.
 ## Result
 1. Dashboard Preview
 
-<img src="images/sales-demo.gif?raw=true"/>
-
-<img src="images/sales-dashboard.png?raw=true"/>
+<img src="images/sales-dashboard.jpg?raw=true"/>
 
 2. Table Preview
 
-<img src="images/sales-table.png?raw=true"/>
-
-## Conclusions
-1. 
+<img src="images/sales-table.jpg?raw=true"/>
